@@ -35,22 +35,8 @@ This project is building a new parallel time-marching solver for unsteady flow s
 
 SWMMengine can be safely used in parallel *environments*, handling multiple procesors. We are currently working on making it parallel using the Fortran Coarrays and make it available as a next version to the community.
 
-## Copyrights
-
-SWMMengine is an open source project, it is distributed under a public domain:
-
-+ [Public Domain](https://opensource.org/node/878).
-
-Anyone is interest to use, to develop or to contribute to SWMMengine is welcome, feel free to select the license that best matches your soul!
-
 Go to [Top](#top)
 
 ## Documentation
 
 Detailed documentation of SWMMengine is contained into this README file. Detailed documentation of SWMM can be found at [U.S. EPA](https://www.epa.gov/water-research/storm-water-management-model-swmm) website.
-
-## Acknowledment
-
-This project is being  developed by the National Center for Infrastructure Modeling and Management (NCIMM), under funding from the U.S. Environmental Protection Agency with Cooperative Agreement No. 83595001 awarded  to the University of Texas at Austin.
-
-Go to [Top](#top)

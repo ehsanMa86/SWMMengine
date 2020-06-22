@@ -10,4 +10,5 @@ case after simulation.
 ## HAPPY SWMMing!
 
 ## Please Cite the software
-https://zenodo.org/badge/273943203.svg
+
+[![DOI](https://zenodo.org/badge/273943203.svg)](https://zenodo.org/badge/latestdoi/273943203)

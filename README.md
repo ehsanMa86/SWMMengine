@@ -8,3 +8,6 @@ run ./SWMM to run the default case. ./Allclean is also provided to clean the
 case after simulation. 
 
 ## HAPPY SWMMing!
+
+## Please Cite the software
+https://zenodo.org/badge/273943203.svg

@@ -16,4 +16,4 @@ SWMMengine is free software. You can redistribute it and modify it under the ter
 
 [![DOI](https://zenodo.org/badge/273943203.svg)](https://zenodo.org/badge/latestdoi/273943203)
 
-Ehsan Madadi, & EddieT32. (2020, June 22). ehsanMa86/SWMMengine: The first version of SWMM in Fortran (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3903439
+Ehsan Madadi-Kandjani, & Edward Tiernan. (2020, June 22). ehsanMa86/SWMMengine: The first version of SWMM in Fortran (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3903439
